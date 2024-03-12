@@ -3,7 +3,7 @@ layout: post
 title: "Jekyll Learning #04 - Mac 系统上安装 Jekyll"
 subtitle: '不能直接使用Mac自带的ruby环境就可以下载Jekyll和bundler。'
 date: 2024-02-25 19:00:00
-author: "WePro"
+author: "WENEW"
 copyright-statement: 
 hidden: false
 header-img: "img/post/post-bg-mac-jekyll.jpg"

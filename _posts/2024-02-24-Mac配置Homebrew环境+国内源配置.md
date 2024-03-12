@@ -3,7 +3,7 @@ layout: post
 title: "Jekyll Learning #02 - Mac配置Homebrew环境+国内源配置"
 subtitle: 'M系列芯片搭载的Mac在安装Jekyll之前配置Homebrew环境'
 date: 2024-02-24 21:00:00
-author: "WePro"
+author: "WENEW"
 copyright-statement: 
 hidden: false
 header-img: "img/post/post-bg-homebrew.jpg"

@@ -3,7 +3,7 @@ layout:     post
 title:      "Hello, World! 你好，从新开始"
 subtitle:   "从零开始的网站搭建之路"
 date:       2024-02-15 09:00:00
-author:     "WePro"
+author:     "WENEW"
 header-img: "img/post/post-bg-2024.jpg"
 excerpt: 本文详细介绍了本网站搭建的完整过程，并介绍该网站的使用教程。
 catalog: true
@@ -51,9 +51,9 @@ tags:
 * Jekyll 的自定制非常容易，基本就是个模版引擎
 
 
-本来觉得最大的缺点可能是 GitHub 在国内访问起来有点慢，部分功能没法使用，比如评论功能[DISCUS](https://wepro.disqus.com)的分享，另外，有些社交也是只能国外使用，比如MATA（原来的FACEBOOK），X（原来的Twitter）。
+本来觉得最大的缺点可能是 GitHub 在国内访问起来有点慢，部分功能没法使用，比如评论功能[DISCUS](https://wenew.disqus.com)的分享，另外，有些社交也是只能国外使用，比如MATA（原来的FACEBOOK），X（原来的Twitter）。
 
-总体来说还是比较好的，开源的网站，限制就少很多，不需要进行认证等一系列繁琐的操作，而且可玩性也比较强，不像国内非常呆板的模板，整体页面开起来特别舒服，流畅。我另外还将国内的[工作站](https://wepro-uk.feishu.cn)，[邮箱](https://wepro-uk.feishu.cn/mail)，[云盘](https://yun.139.com)，[网盘](https://pan.quark.cn)，[NAS](https://www.zconnect.cn/)全部都链接过来，一个专属的网站可以通向各个地方，这些就是我的全部家当了。
+总体来说还是比较好的，开源的网站，限制就少很多，不需要进行认证等一系列繁琐的操作，而且可玩性也比较强，不像国内非常呆板的模板，整体页面开起来特别舒服，流畅。我另外还将国内的[工作站](https://wenew-uk.feishu.cn)，[邮箱](https://wenew-uk.feishu.cn/mail)，[云盘](https://yun.139.com)，[网盘](https://pan.quark.cn)，[NAS](https://www.zconnect.cn/)全部都链接过来，一个专属的网站可以通向各个地方，这些就是我的全部家当了。
 
 ---
 
@@ -79,7 +79,7 @@ tags:
 
 如果你恰好逛到了这里，希望你也能喜欢这个网站。
 
-—— Wepro 后记于 2024.02.14
+—— WENEW 后记于 2024.02.14
 
 ## 致谢
 

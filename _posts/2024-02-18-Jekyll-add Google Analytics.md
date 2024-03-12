@@ -3,7 +3,7 @@ layout: post
 title: "Jekyll Learning #01 - Add Google Analytics"
 subtitle: 'How to add Google Analytics to your Jekyll website?'
 date: 2024-02-18 11:00:00
-author: "WePro"
+author: "WENEW"
 copyright-statement: 
 hidden: false
 header-img: "img/post/post-bg-google-analysis.jpg"

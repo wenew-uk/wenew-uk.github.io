@@ -3,7 +3,7 @@ layout: post
 title: "Jekyll Learning #03 - Windows 系统上安装 Jekyll"
 subtitle: '本地Windows上搭建一个服务，方便调试由 Jekyll 生成的网站效果。'
 date: 2024-02-24 22:00:00
-author: "WePro"
+author: "WENEW"
 copyright-statement: 
 hidden: false
 header-img: "img/post/post-bg-win-jekyll.jpg"
