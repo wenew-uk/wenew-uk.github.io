@@ -168,4 +168,14 @@
     </a>
   </li>
   {% endif %}
+  {% if site.slack_username %} <!-- wepro -->
+  <li>
+    <a target="_blank" href="https://{{ site.slack_username }}.slack.com">
+      <span class="fa-stack fa-lg">
+        <i class="fa fa-circle fa-stack-2x"></i>
+        <i class="fa  fa-stack-1x fa-inverse">S</i>
+      </span>
+    </a>
+  </li>
+  {% endif %}
 </ul>
