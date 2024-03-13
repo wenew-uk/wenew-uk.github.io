@@ -14,7 +14,6 @@ future: true
 # SNS settings
 RSS: false
 link_name:  wenew-uk
-you_username:  wenew-uk
 slack_username:  wenew-uk
 weibo_username: xmcmj5
 zhihu_username: wepro-uk
@@ -24,11 +23,6 @@ facebook_username: jemmy.cn
 linkedin_username:  mingjie-chen
 jianshu_username: b663ec36410e
 email_address: info@wenew.uk
-139_username:  wenew
-yun_username:  wenew
-pan_username:  wenew
-zspace_username:  wenew
-lexar_username:  wenew
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
@@ -102,6 +96,12 @@ page-mathjax: false
 # Friends
 friends:
   [
+    { title: "飞书邮", href: "https://wenew-uk.feishu.cn/mail" },
     { title: "Mike Lyou", href: "https://blog.mikelyou.com" },
     { title: "Hux", href: "https://huangxuan.me" },
+    { title: "139邮箱", href: "https://mail.10086.cn" },
+    { title: "移动云", href: "https://yun.139.com" },
+    { title: "夸克盘", href: "https://pan.quark.cn" },
+    { title: "雷克沙", href: "https://cloud.lexar.com" },
+    { title: "极空间", href: "https://www.zconnect.cn" },
   ]
