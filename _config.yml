@@ -108,4 +108,5 @@ friends:
     { title: "网易邮", href: "https://qy.163.com/login" },
     { title: "腾讯邮", href: "https://exmail.qq.com/login" },
     { title: "创作台", href: "https://app.v.tencent.com" },
+    { title: "Notion", href: "https://wenew-uk.notion.site" },
   ]
